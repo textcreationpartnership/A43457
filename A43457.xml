@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honorable the Lord Mayor and Aldermen of London at Guild-Hall Chappel, upon the second of September, 1679 being the day of their humiliation in memory of the late dreadful fire / by Henry Hesketh ...</title>
+            <author>Hesketh, Henry, 1637?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43457</idno>
+            <idno type="STC">Wing H1616</idno>
+            <idno type="STC">ESTC R18213</idno>
+            <idno type="EEBO-CITATION">12212276</idno>
+            <idno type="OCLC">ocm 12212276</idno>
+            <idno type="VID">56331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 919:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honorable the Lord Mayor and Aldermen of London at Guild-Hall Chappel, upon the second of September, 1679 being the day of their humiliation in memory of the late dreadful fire / by Henry Hesketh ...</title>
+                  <author>Hesketh, Henry, 1637?-1710.</author>
+               </titleStmt>
+               <extent>[4], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Godbid, and J. Playford, for Will. Leach ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Lamentations III, 22 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:56331:1"/>
+            <opener>
+               <signed>Edwards Mayor.</signed> 
+               <dateline>
+                  <date>Jovis Quarto die Septembris 1679. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni Regis Caroli Secundi Angliae, <hi>&amp;c.</hi> XXXI<hi rend="sup">o.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>This Court doth deſire Mr. <hi>Hesketh</hi> to Print his Sermon, preached at <hi>Guild-Hall</hi> Chappel, before the LORD MAYOR and Aldermen, on the ſecond of this inſtant <hi>September,</hi> being the day of Humiliation for the diſmal Fire in the Year 1666.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:56331:1"/>
+            <p>A SERMON Preached before the Right Honorable The Lord Mayor AND ALDERMEN OF LONDON, AT GUILD-HALL CHAPPEL, <hi>Upon the Second of</hi> September, 1679.</p>
+            <p>Being the day of their Humiliation in Memory of the late dreadful Fire.</p>
+            <p>By HENRY HESKETH Rector of <hi>Charlewood</hi> in <hi>Surrey,</hi> and Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>A. Godbid,</hi> and <hi>J. Playford,</hi> for <hi>Will. Leach,</hi> at the <hi>Crown</hi> in <hi>Cornhill,</hi> near the <hi>Royal-Exchange,</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56331:2"/>
+            <pb facs="tcp:56331:2"/>
+            <head>To the Right Honourable Sir <hi>JAMES EDWARDS</hi> LORD MAYOR of LONDON: And to the Honourable Court of ALDERMEN.</head>
+            <opener>
+               <salute>RIGHT HONOURABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I firſt received your Commands for the publiſhing of this Diſcourſe, I dare not ſay, but that I did ſecretly rejoice: But not upon thoſe vain Reaſons that perhaps ſome may invidiouſly ſuppoſe, but only that I had hopes thereby given me, that the Truths therein were as favourably entertained, as (I am ſure) they were honeſtly intended, and therefore the more likely to have ſome good effect upon them that heard them.</p>
+            <p>I am very ſenſible, both how meanly they were delivered, and how homely worded, but, my Lord,
+<pb facs="tcp:56331:3"/> Your acceptance ſupplies both thoſe Defects. And if they may in any little meaſure promote the great Ends of Preaching, and be ſerviceable to any in the Purpoſes of Religion, but eſpecially if they may induce this City to purſue the Methods to Honour and Safety, and to Divine Protection, the great Enſurer of both, I ſhall have great cauſe to rejoice in my labour, and bleſs God for the Succeſs of it. In humble hopes of which, I ſhall inſtantly addreſs to him, who can give all theſe Effects, and who is always ready and forward to do ſo, even God Almighty: Who that he may ſtill continue his Mercies and Compaſſions to this City, is and ſhall be the Prayer of,</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>Your moſt obliged and obedient Servant, <hi>HENRY HESKETH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:56331:3"/>
+            <epigraph>
+               <q>
+                  <bibl>LAM. 3.22.</bibl>
+                  <p>It is of the Lord's Mercies that we are not conſumed, and becauſe his Compaſſions fail not.</p>
+               </q>
+            </epigraph>
+            <p>IT is the Duty of Man to rejoice before the Lord with reverence, to mix humility with his Euchariſts, and to contemper his Joy in Divine Mercy with ſeriouſneſs and fear.</p>
+            <p>And it is his happineſs that he may do ſomething like this in his moſt ſolemn Mournings. The Cauſes of Man's Hu<g ref="char:EOLhyphen"/>miliation and Sorrow are very rarely pure and unmixt, but Mercy mingleth it ſelf with his Judgments, and the Sun ſhines even in the midſt of the Shower: Even in the Valley of Action, there is a Door of Hope; and ſome Cauſe of Joy, when there is ſo of Mourning.</p>
+            <p>And a great part of Man's Wiſdom conſiſts in this, in knowing how rightly to contemper theſe two; neither ſo
+<pb n="2" facs="tcp:56331:4"/> rejoicing, as to <hi>become vain;</hi> nor ſorrowing ſo, as <hi>without hope.</hi>
+            </p>
+            <p>Men may rejoice in God's Kindneſs, even when they mourn under the Effects of his Wrath, and when they moſtly lament their own Miſery: They may joy in Divine Mercy, when they humble themſelves under a ſenſe of their own great Demerits; they may yet rejoice that their Miſery is not anſwerable to them; and when they mourn the moſt deeply, conſidering how they deſerve to be conſumed, they may triumph to think they are not ſo.</p>
+            <p>This was the condition of this People, when the Prophet compoſed this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and therefore amongſt their moſt paſſio<g ref="char:EOLhyphen"/>nate Lamentations, there are ever now and then interſperſed Expreſſions of Praiſe.</p>
+            <p>And it is no unpleaſant Reflection to conſider, That in this ours alſo nearly reſembles it. We have been brought into the Fiery Furnace by our Sins, but we have been brought alſo out of it by
+<pb n="3" facs="tcp:56331:4"/> Divine Mercy. The Fire hath kindled upon us to high degrees; but we have been plucked as a Fire-brand out of it. We have been brought down even to the grave, but we have been brought up again from it. The Judgment threaten'd to deſtroy us utterly, but it did not. We were near being conſumed, but we were not ſo.</p>
+            <p>In theſe Circumſtances, I cannot but think it will concern us, to reflect equal<g ref="char:EOLhyphen"/>ly upon both theſe Conditions, that we may order our Sacrifice according to the Exigents of both; mingle Incenſe with our Treſpaſs-offering, and put Honey into our bitter Herbs, confeſs our many great Sins, that we may be hum<g ref="char:EOLhyphen"/>bled, and conſider God's greater Mercies, that we may be exalted. It was thoſe that brought us into danger; it was theſe that brought us out of it.</p>
+            <p>And therefore I do not know a more becoming Service for this Day, than to give Glory to God in both Caſes; in the one, by acknowledging our Sins,
+<pb n="4" facs="tcp:56331:5"/> and the juſtneſs of his Wrath; in the other, by giving the Praiſe of our Deli<g ref="char:EOLhyphen"/>verance only to his Mercy. And to our Recognitions of his Mercies, that we were not conſumed, add our Prayers, and humbly implore the continuance of the ſame; that as we have taſted them, ſo we may ſtill, that as his Compaſſions have not, ſo they never may fail towards us.</p>
+            <p>In which Words, there are two Things chiefly obſervable.</p>
+            <p>
+               <hi>Firſt,</hi> Something plainly ſuppoſed, or implied, and that is, That they were very near being wholly conſumed, and juſtly might have been ſo.</p>
+            <p>
+               <hi>Secondly,</hi> Something plainly expreſſed, and that is, That they were not conſumed, and that it was only of Divine Mercy that they were not.</p>
+            <p>I do not forget that this is deſigned for a Faſt, and a Day of Humiliation, and therefore I take notice of the firſt; and I cannot but obſerve how God hath turned our weeping into joy, and there<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:56331:5"/> cannot but obſerve the latter. They are both now happily complicated in our Circumſtances, and to conſider duly of both, will make a very meet Service for this Day.</p>
+            <p>In ſpeaking to the firſt, I ſhall only offer at three Things:</p>
+            <p n="1">I. A little refreſh your Memory, in calling your Thoughts to the Conſide<g ref="char:EOLhyphen"/>ration of our Judgment and Danger, <hi>almoſt conſumed.</hi>
+            </p>
+            <p n="2">II. Suggeſt how <hi>juſt</hi> and <hi>deſerved</hi> it was.</p>
+            <p n="3">III. Preſs the <hi>ſober Memory</hi> of it, accor<g ref="char:EOLhyphen"/>ding to this Days pious Deſignation.</p>
+            <p>In ſpeaking to the latter, I ſhall offer at three Things too.</p>
+            <p n="1">I. Conſider our happy Reſcue from this Conſumption, <hi>we are not conſumed.</hi>
+            </p>
+            <p n="2">II. Enquire to what we owe our Re<g ref="char:EOLhyphen"/>cognitions for it, <hi>Gods Mercies.</hi>
+            </p>
+            <p n="3">III. Search by what Methods theſe Mercies, and theſe Deliverances, (the Effects of them) may be aſſured ſtill unto us, <hi>not to fail.</hi>
+            </p>
+            <pb n="6" facs="tcp:56331:6"/>
+            <p>Which things I ſuppoſe will well enough anſwer the Deſign of this Day, and the Purport of this Text.</p>
+            <p n="1">I. I begin with the firſt General, and therein with the firſt thing propoſed, the Intimation of the Danger we were in, <hi>almoſt conſumed.</hi> This is ſufficiently implied in this Recognition, and anſwer<g ref="char:EOLhyphen"/>able to our common way of ſpeaking in the like caſes: When we would expreſs a great Danger, we commonly ſay, <hi>Without God's great Mercy we had periſhed.</hi> We were in a fair way to deſtruction, and very near it, and nothing but God's gracious, and powerful Interpoſition could reſcue us from it.</p>
+            <p>That we were indeed ſo, we need not (one would think) to be told, nor indeed can we well ſtand in need of a Remem<g ref="char:EOLhyphen"/>brancer. Thirteen Years (one would think) could not ſo efface the Impreſſion, nor wear off the Senſe of ſo ſtupendious a Judgment, that there ſhould now be any great need, either of refreſhing our Memory, or renewing our Apprehenſion thereof.</p>
+            <pb n="7" facs="tcp:56331:6"/>
+            <p>But becauſe Vanity is apt to ſteal up<g ref="char:EOLhyphen"/>on the Minds of Men, and the moſt important things ſooneſt paſs from us, it cannot be more needleſs, than (I am ſure) it is unconducing, to repreſent ſomething of this now to the Conſide<g ref="char:EOLhyphen"/>rations of Men.</p>
+            <p>I muſt have leave therefore a little to renew your Sorrows, and call you to the repetition of your ſad Reflexions. I muſt beg you a little while to impregnate your Fancies, with freſh Idea's of the late dread<g ref="char:EOLhyphen"/>ful and amazing Conflagration. It is one part of the Buſineſs of this Day, and to what good purpoſes it may conduce, you ſhall hear in part, by and by.</p>
+            <p>A Judgment ſo extremely terrible, as to be equally effective of Aſtoniſhment and Grief. A Miſery above the reach of common Sorrows, and fitter to be entertained with horror, and amazement, and ſilence.</p>
+            <p>Had an Orator this Theme, and would give himſelf ſcope to expatiate on it, how eaſily might he repreſent it to thoſe
+<pb n="8" facs="tcp:56331:7"/> heights of Terror, and dreſs it up in ſuch diſmal colours, as might amaze, and drown in tears a tender Auditory.</p>
+            <p>Lord, to what extreme degrees did thine Anger then burn like Fire! and how lively a Preludium was it of thy great Appearance in Wrath, and of the final Conflagration! How did all the Tribes of this great City mourn, and how did blackneſs and horror ſit in all Faces! How did the Heavens look red with thine Indignation, and how did the Elements melt with Heat of thy Wrath!</p>
+            <p>How did that worſt of Maſters then tyranize over us, and how did the beſt of Servants degenerate into the cruelleſt of Rebels! How did it triumph over all reſtraints, and ſcorn all oppoſitions made againſt it! In what a little time did it bring down the Glory of one of the Conſiderableſt Cities on Earth, and lay its Honour in the Duſt.</p>
+            <p>How did the ſtately Turrets fall, and the beautiful Palaces ſink into Confuſi<g ref="char:EOLhyphen"/>on!
+<pb n="9" facs="tcp:56331:7"/> Nay, how (O Lord) did thine own Portions fall too! and how afflictive a Symptom was it, that thou wouldſt no more be intreated, ſince thou left us no places to ſupplicate thee in! How juſtly might the Prophet compoſe for us a <hi>ſecond Lamentation,</hi> and how eaſily might he out do all the doleful Accents in the <hi>former!</hi>
+            </p>
+            <p>How did the <hi>delicate City lie among the pots!</hi> and how was the <hi>Beauty of the Earth</hi> buried in Aſhes! How did ſhe, that afore-time was filled with Troops, now ſit alone, and ſhe that was Queen of the Earth remain deſolate and unattended! How was the <hi>faithful City</hi> become more defor<g ref="char:EOLhyphen"/>med than an <hi>Harlot,</hi> and how <hi>inſtead of Righteouſneſs there was a Cry!</hi> How were the Chambers of the Daughters of <hi>Iſrael</hi> become Habitations only of Monſters and Dragons, and how well might the filthy Satyrs dance there!</p>
+            <p>How was ſhe, whom Kings of the Earth admir'd for her Riches and Beauty, be<g ref="char:EOLhyphen"/>come now her own amazement and wonder! How did thoſe that had <hi>known her,
+<pb n="10" facs="tcp:56331:8"/> know her no more,</hi> and how ſtrange was ſhe be<g ref="char:EOLhyphen"/>come even to her own Children! and ſhe that aforetime was the Joy of the Earth, now become the Sorrow and Hatred of her own Sons!</p>
+            <p>But I muſt forbear, and not extort Blood inſtead of Tears: I muſt not kill, when I would only wound, nor grow cruel in ſporting with theſe Miſeries. I only deſire a <hi>ſober remembrance</hi> of theſe things, and not to bring us really to re<g ref="char:EOLhyphen"/>act our former tranſports. I would not have theſe things forgotten, and I but comply with the Inſtitution of this Day, in recounting them again, that they may not.</p>
+            <p n="2">II. And therefore now paſs on to a ſecond afflictive Conſideration, (for yet I muſt detein you in the diſmal Proſpect) and that is to conſider how <hi>juſt</hi> all this was; for the Almighty (ſaith the Pro<g ref="char:EOLhyphen"/>phet in this Chapter) doth not <hi>cauſeleſly afflict,</hi> nor <hi>willingly grieve the Children of Men.</hi> And indeed a little Enquiry will ſoon ſatisfie us, that in this he did not.</p>
+            <pb n="11" facs="tcp:56331:8"/>
+            <p>If any Man therefore ask as they did; <hi>Jer.</hi> 22.8. <hi>Wherefore hath the Lord done this to this great City?</hi> the Prophet there furniſh<g ref="char:EOLhyphen"/>eth me with an Anſwer, <hi>Becauſe they have forſaken the Covenant of the Lord their God, and worſhipped other Gods, and ſerved them; i. e.</hi> in plain <hi>Engliſh,</hi> they have ſinned againſt their God, they have contemned his Laws, and by their Tranſgreſſions they have brought upon themſelves this De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>And for God's ſake my Brethren how juſtly might ſuch an Anſwer be made in our Caſe! and how well might God's Judgments againſt us be juſtified upon the Reaſons of it! I would much rather Men's own Thoughts ſhould ſpeak, than force me to become their Accuſer.</p>
+            <p>I know it is an invidious Task, to re<g ref="char:EOLhyphen"/>count the Sins of a great Body of Men, and I do not delight to rake into the Imperfections of my Brethren. It is not an acceptable performance, to go to convince Men of their Sins, but yet it is neceſſary that they ſee them. I do
+<pb n="12" facs="tcp:56331:9"/> not therefore deſire to become your Confeſſor at this time, nor would I pub<g ref="char:EOLhyphen"/>liſh our ſhame to the inſulting of our Enemies.</p>
+            <p>But I muſt have liberty to ſay, as theſe Men by the Prophet do, Chap. 1. 18. <hi>The Lord is righteous, for we have rebelled againſt him;</hi> in what inſtances, our Conſciences will tell us; and to what heights, we ſhould ſoon hear, might our own Minds ſpeak. If we were equal in Judgments to that City, for which this <hi>Lamentation</hi> was penn'd, it is certain we have equalled it in ſinning; nay, if we had exceeded her in ſuffering, it had been but juſt, for we have exceeded her ſins, and (to borrow the prophetical Emblem) if ſhe were <hi>Aholah,</hi> we have been <hi>Aholibah,</hi> and not only tranſcribed, but exceeded her Fornications.</p>
+            <p>If the fire kindled upon us, and pre<g ref="char:EOLhyphen"/>vailed, it was becauſe we had prepared Combuſtibles for it, to conſume and feed on. It was our Sins that oyled the Flames, and firſt kindled the raging Conſumer.</p>
+            <pb n="13" facs="tcp:56331:9"/>
+            <p>It was our Wickedneſs, that more than the preceding Drought, made us fit for burning; and it was want of peni<g ref="char:EOLhyphen"/>tent Tears, more than of Water, that render'd it unquenchable. If the Stones were calcined in our Walls, and the Beams conſumed to powder, it was be<g ref="char:EOLhyphen"/>cauſe theſe had cryed each to other, as unable to ſupport the Load of our Frauds and Violences: And if the Al<g ref="char:EOLhyphen"/>mighty thunder'd againſt us in Flames, it was our Exorbitances that had created Clouds for thoſe Thunders to breed in.</p>
+            <p>If our Habitations tumbled to the Earth, it was becauſe our Sins had cla<g ref="char:EOLhyphen"/>mor'd up to Heaven; and if God fought againſt us in Flames of Fire, it was be<g ref="char:EOLhyphen"/>cauſe we had engaged before in a daring and impious <hi>Theomachie.</hi>
+            </p>
+            <p>If our Temples were made Habitations for Owls, it was becauſe we had made them Dens of Thieves. If our Streets were made lurking places for Robbers, it was becauſe we had filled them before with Violence. If the Prophets were not
+<pb n="14" facs="tcp:56331:10"/> to be ſeen amongſt us, it was becauſe we had poured contempt upon them: And if the Elders ſat no more in our Gates, it was becauſe thoſe Gates had been corrupted with Injuſtice.</p>
+            <p>If our great Conventions and Halls were not, it was but to impoſe a Faſt for their former Plethories. And, in a word, if our City was made a fiery Oven, it was becauſe we had contracted Droſs, from which we needed a refining. If God had puniſhed to the height of our Demerits, we had not been here now, either to complain of his Severity, or to praiſe his Mercy.</p>
+            <p>But I paſs from this Theme alſo, only with this Requeſt; That we ſoberly con<g ref="char:EOLhyphen"/>ſider both theſe things, and entertain in our Thoughts a conſtant Memory of them. Which to what excellent purpoſes it may conduce, is the</p>
+            <p n="3">III. Third thing propoſed to inti<g ref="char:EOLhyphen"/>mate. You have raiſed up a Monument to be a laſting Remembrancer of this Judgment, and you have inſtituted this Day to be a Comment upon it.</p>
+            <pb n="15" facs="tcp:56331:10"/>
+            <p>I do not ſtay to tell you, how in this you are preſidented by the Practice of all ſober Nations, who have not thought it fit, that extraordinary Accidents ſhould be over-run with Oblivion, and buried in the common Crowd of Things; and therefore in order to the preventing that, have ſignalized them with ſome extraordinary Remarks, ſet aſide ſome-Time for their ſtated Remembrance, and raiſed Monuments and Pillars to perpe<g ref="char:EOLhyphen"/>tuate that Remembrance to ſucceeding Ages.</p>
+            <p>But I would rather intimate to what excellent Purpoſes this Memory may ſerve us. I ſhall mention theſe four:
+<list>
+                  <item>I. To make us live in a conſtant fear of God, and his Judgments.</item>
+                  <item>II. In a ſenſe of our own great Muta<g ref="char:EOLhyphen"/>bility, and the uncertainty of theſe En<g ref="char:EOLhyphen"/>joyments.</item>
+                  <item>III. To excite our care and watchful<g ref="char:EOLhyphen"/>neſs againſt any Parties of Men, that have been Inſtruments in ſuch Judgments, and are ready to be ſo again.</item>
+                  <pb n="16" facs="tcp:56331:11"/>
+                  <item>IV. Eſpecially to excite our care and indignation againſt thoſe Sins of our own, that may ſo again incenſe God, as to permit them to be ſo.</item>
+               </list>
+            </p>
+            <p n="1">I. To make us live in an awe of God, and his terrible Judgments, than which there are not many rarer Inſtruments of Virtue, or more effectual to reſtrain Vice.</p>
+            <p>Who would not fear thee, ô thou King of Nations, that conſiders thy Greatneſs, but who can chuſe but do ſo, that ſees thy Judgments, and ſuch terrible Speci<g ref="char:EOLhyphen"/>mens of thy Power and Wrath!</p>
+            <p>I do not doubt, but the ſight of the Judgment wrought ſuch awful appre<g ref="char:EOLhyphen"/>henſions of God, when it was preſent; and to Men, in any meaſure inſtructed in Religion, it was almoſt impoſſible but that it ſhould: And therefore I recom<g ref="char:EOLhyphen"/>mend the ſteady Memory of it, in order to the perpetuating the ſame good effect; for if Men continue the one, they can ſcarce miſs to feel the other.</p>
+            <p>What juſt cauſe have all of us to trem<g ref="char:EOLhyphen"/>ble before the God of the whole Earth,
+<pb n="17" facs="tcp:56331:11"/> who can ſo eaſily bring down the Strength of ungodly Nations, and can look the ſtrongeſt Cities into confuſion! <hi>My fleſh trembleth for fear of thee, and I am afraid of thy Judgments,</hi> cryeth <hi>David, Pſal.</hi> 119.120. And certainly they that have ſeen ſuch dreadful Inſtances of theſe Judgments, cannot but do ſo.</p>
+            <p n="2">II. Eſpecially if (ſecondly) they conſider, That they are ſtill ſubject to the ſame, and in reach of them: And there are not many Meditations more effective of humility, and deſtructive to preſumption, and pride, and confi<g ref="char:EOLhyphen"/>dence, than this.</p>
+            <p>It was the great Folly, as well as Sin, of <hi>Jeruſalem,</hi> to <hi>dwell careleſly</hi> and ſecurely, to ſay, <hi>none was beſides her, ſhe ſhould not ſit as a Widow, nor know the loſs of Children,</hi> as God chargeth her to do, <hi>Iſa.</hi> 47.8. <hi>i. e.</hi> to glory in her ſtrength, and to think her ſelf impregnable: And God let her therefore ſee the folly of her pride, and vanity of her confidence.</p>
+            <p>And the truth is, moſt great Cities are
+<pb n="18" facs="tcp:56331:12"/> apt to fall into the ſame folly, to glory in their Walls, or the Strength of their Inhabitants, in the Multitude of their People, or in the greatneſs of their Riches; as if theſe were Fences againſt Miſeries, and Amulets againſt Deſtruction.</p>
+            <p>Againſt which Vanity and Danger, it were well, for ſuch to continue the Memory of any Judgments that have befallen others, but much more ſuch as have befallen themſelves.</p>
+            <p>It was thought enough to awaken and humble proud <hi>Jeruſalem,</hi> to bid her (as the Prophet doth <hi>Amos</hi> 6.2.) <hi>paſs now to</hi> Calneh <hi>and ſee, and from thence go to</hi> Hamath <hi>the great, then go down to</hi> Gath <hi>of the</hi> Philiſtins, <hi>be they better than thoſe Kingdoms! or their Border greater than theſe Nations?</hi>
+            </p>
+            <p>Another Prophet thought he ſaid enough to ſtartle proud <hi>Nineveh,</hi> by tel<g ref="char:EOLhyphen"/>ling her (as he did <hi>Nah.</hi> 3.8, 9.) That ſhe ſhould conſider, whether ſhe were <hi>better than populous</hi> No, <hi>that was ſituate among the Rivers, and had the Water round about it, whoſe Rampart was the Sea, and her wall from the Sea;</hi>
+               <pb n="19" facs="tcp:56331:12"/> Ethiopia <hi>and</hi> Egypt <hi>were her Strength, and it was infinite,</hi> Put <hi>and</hi> Lubin <hi>were her Helpers, and yet ſhe went into Captivity.</hi>
+            </p>
+            <p>And thoſe that ſee the ſtrongeſt Cities ſubject to the ſame Deſtructions, and dance the ſame Fate before them, have little reaſon to exempt themſelves from it, or to think it impoſſible. But then certainly thoſe have much leſs reaſon to think ſo, that conſider they themſelves formerly have known what Miſery meant. What befalls others, may befall them too; but what befalls them at one time, may do ſo at another as well. The things that have been, may be again, and ſhe that hath been taught to know what it is to ſuffer, hath little reaſon to magnifie her ſelf againſt all future poſſi<g ref="char:EOLhyphen"/>bility of it.</p>
+            <p n="3">III. Another End, not unprofitable for us (perhaps) in this Matter, may be to excite our <hi>Care</hi> and <hi>Watchfulneſs</hi> againſt thoſe Men, that were inſtrumental in inflicting upon us this Deſtruction, and yet may be ready to repeat the ſame.</p>
+            <pb n="20" facs="tcp:56331:13"/>
+            <p>My Brethren, I am not one (I thank God) that is apt to entertain hard thoughts of any Men, much leſs that take pleaſure in reflecting on them: And I plainly confeſs to you, I think it would have been next to impoſſible, to have induced me to believe, That Men profeſſing <hi>Chriſtian Religion,</hi> ſhould ever have a hand in ſuch a thing; were I not convinced by their Doctrines, and ſome ſubſequent Practices of the poſſi<g ref="char:EOLhyphen"/>bility of it.</p>
+            <p>It is certainly hard for any Man, that hath not ſhaken off all Remains of Reli<g ref="char:EOLhyphen"/>gion, and Humanity too, to think it poſſible for Men to be ſo debauched in the one, or ſo wholly to have abandoned the other, as purpoſely to inflict ſuch <hi>barbarous Cruelties</hi> upon their Fellow Bre<g ref="char:EOLhyphen"/>thren, and Fellow Chriſtians. But ſad Experience hath taught us, That theſe things are poſſible to ſome Men, and warranted by their very Religion to be <hi>Virtues</hi> and <hi>Merits.</hi>
+            </p>
+            <p>But therefore I think theſe <hi>Doctrines,</hi>
+               <pb n="21" facs="tcp:56331:13"/> and conſonant <hi>Practices,</hi> condemnation enough of that Religion, and ſufficient warrants for all, that either love their Souls, or their Safety, to be <hi>watchful</hi> againſt all thoſe that are bigotted into a mad Zeal for it.</p>
+            <p>Thoſe Men that can Fire Cities, and dance in the Light of their Flames, are (I am ſure) far enough from the Spirit of JESUS, whoſe <hi>Name</hi> they uſurp, and had better derive themſelves from <hi>Nero,</hi> that Monſter of Men, or incarnate Devil.</p>
+            <p>But I would not be accounted ſevere to any. If theſe things were but <hi>accidental Miſcarriages,</hi> and not the <hi>natural Iſſues</hi> of ſome Mens <hi>Principles:</hi> Or were not we (I do not know for what reaſon) ſliding inſenſibly into a good Opinion and Be<g ref="char:EOLhyphen"/>lief of their Innocency, ready to acquit them from their Crimes, and to think kindly of them; I had wholly waved this reflective Period.</p>
+            <p>But ſince it is quite otherwiſe, I think it not amiſs, nor very excentrick to my Duty, to give a Caution againſt them,
+<pb n="22" facs="tcp:56331:14"/> and only ſay, if we warm that Viper again, in that Boſom, which it hath formerly ſeveral times ſo dangerouſly wounded, we become Acceſſaries to our own Ruin, and muſt be pitied only with that compaſſion, that belongs to ſilly and incredulous Fools.</p>
+            <p>I am for Mercy and Compaſſion, Kindneſs and Charity to all, but I do not know how to commend it then, when it ſhall be made advantage of to effect our own Ruin.</p>
+            <p n="4">IV. But fourthly, I have greater Enemies to caution againſt, and more dangerous; for wicked Men could have no advantage againſt us, did not we our ſelves give it them; nor would God permit this Sword of his to wound us, did not we by our Sins incenſe and pro<g ref="char:EOLhyphen"/>voke him to do ſo. It is theſe that put the Sword into our Enemies Hand, and it is theſe that arm evil Men againſt us.</p>
+            <p>And certainly when God not only threatens, but lets us actually feel the ſad and bitter Effects of theſe, we have
+<pb n="23" facs="tcp:56331:14"/> mighty great Arguments againſt them, and ſhall make a ſad Uſe of God's Me<g ref="char:EOLhyphen"/>thods, and our own Experiences, if yet we retain a Kindneſs for them.</p>
+            <p>It was our Saviours advice to the Man recovered from his ſad Infirmity, <hi>Joh.</hi> 5.14. <hi>Go, and Sin no more, leſt a worſe thing come unto thee;</hi> and it was mighty proper, and like to take effect: For they that have felt by a true Experience, what an evil and bitter thing it is, to <hi>ſin againſt God,</hi> one would think were in a fair way to conver<g ref="char:EOLhyphen"/>ſion; but they that ſeverely ſuffer for their Sins, and yet go and ſin again, their Salvation is next to impoſſible.</p>
+            <p>And methinks theſe things might eaſi<g ref="char:EOLhyphen"/>ly be applied to us, and our preſent Circumſtances.</p>
+            <p>That our former Sins have occaſioned that Puniſhment, which we come now to remember, we have been told, and (would we believe our own ſelves) might be aſſured. May we not then? nay ſhould we not take heed of that, whoſe Conſe<g ref="char:EOLhyphen"/>quences we have experienced to be ſo tremendous?</p>
+            <pb n="24" facs="tcp:56331:15"/>
+            <p>If we would have the ſame Judgment repeated, we know the Method, and may purſue it; but certainly, if we be wiſe, ſhall not do ſo. If we dread the one, we ought to hate the other: If we de<g ref="char:EOLhyphen"/>precate the like Puniſhment, we ought to abominate that which cauſed it. If we execrate the Inſtruments that immedia<g ref="char:EOLhyphen"/>tely inflicted the Deſtruction, ſure we ought to do ſo too, to thoſe Sins that enabled them to do ſo.</p>
+            <p>And if we lament our Sins, and bewail our Miſery this Day, to any real <hi>Purpoſes</hi> of <hi>Religion,</hi> or <hi>Acceptance,</hi> this will be the <hi>Effect</hi> of ſo doing; without which, this Day, and the Service of it, will be but Pageantry and Hypocriſie, which will <hi>expoſe</hi> us to God's Fury, and not <hi>entitle</hi> us to his Mercy; cauſe us to fear we ſhall be conſumed, inſtead of praiſing him that we are not; as we now may, as the</p>
+            <p>
+               <hi>Second General</hi> of the Text intimates to us. I confeſs this is not ſo pertinent to the Deſign of this Day, but (bleſſed be God) it is proper for us; and therefore I ſhall for a Cloſe conſider it.</p>
+            <pb n="25" facs="tcp:56331:15"/>
+            <p>Three Things I have propoſed on this Head, and I beg patience while I ſpeak to them: The Theme is grateful, and I hope we ſhall not grow weary to hear our own Bleſſings.</p>
+            <p n="1">I. The firſt is to conſider our <hi>Reſcue</hi> from theſe Flames, <hi>we are not conſumed;</hi> and (bleſſed be God) we can ſpeak it upon better Reaſons, than the Prophet in the Text could.</p>
+            <p>That <hi>we are not conſumed,</hi> our own happy Experiences tell us, and this Religious Convention effectually atteſts. We are yet alive to praiſe God, as I hope we ſhall this Day.</p>
+            <p>But this is too little for us to ſay: It is too mean a Recognition to ſay, <hi>we are not conſumed;</hi> we can ſay alſo, <hi>we are happily re<g ref="char:EOLhyphen"/>covered;</hi> not only eſcaped from <hi>Death,</hi> but reſtored to the happy ſtrength and vi<g ref="char:EOLhyphen"/>gour of our former <hi>Life.</hi> Our City is recovered to its former Grandeur; nay (as it commonly happens in Reſurrecti<g ref="char:EOLhyphen"/>ons) to greater Glory. No Man that hath ſeen our <hi>former Temples,</hi> needs to
+<pb n="26" facs="tcp:56331:16"/> weep now upon the ſight of our <hi>latter;</hi> nor lament, that our preſent <hi>Emporium</hi> is ſhort of the firſt: For our Buildings are riſen to a more glorious Pile, and our City to a much more beautiful Frame than formerly. And we need not be told this; we ſee it daily, and it is equally our <hi>wonder</hi> and our <hi>joy.</hi>
+            </p>
+            <p>It will be a more ſeaſonable Conſidera<g ref="char:EOLhyphen"/>tion, to impreſs our Thoughts with the Author of this bleſſed Preſervation, that we may pay him ſutable Recognitions for it, and that is plainly enough intima<g ref="char:EOLhyphen"/>ted in the Text to be the Lord, <hi>it is of the Lord's Mercies that we are not conſumed.</hi>
+            </p>
+            <p n="1">I. That God is indeed the <hi>Author</hi> of ſuch ſignal Preſervations, as ours, and this Peoples too were, is a Truth ſo very evident upon the Principles of Natural Religion, that I muſt not be ſo rude, as to go about gaining a Belief of it in this Audience.</p>
+            <p>All Men that have any Belief of the <hi>Being</hi> of God, or his Providence in Go<g ref="char:EOLhyphen"/>verning the World, or that have any
+<pb n="27" facs="tcp:56331:16"/> ſenſe of Religion, and the Reaſons of it, cannot but have entertained a Belief of this Truth.</p>
+            <p>If we believe a God, we muſt believe him to be the firſt great Cauſe, which doth influence and move all the reſt, which neither can act without him, nor contrary to his determination. So that he that admits the fatal Chain, and lays a neceſſary Train of Cauſes for all things that are, muſt either drive that Chain to its firſt Original, or he ſpeaks nonſence, and doth not underſtand his own <hi>Hypotheſis.</hi>
+            </p>
+            <p>And if we believe Divine Providence to ſuperintend and order the Affairs of the World, we muſt acknowledge this upon that Reaſon too.</p>
+            <p>I do not go to prove the <hi>Being</hi> of Providence in this place, nor to give Reputation to that idle <hi>Epicurean</hi> Fancy, upon which a <hi>Miſtruſt</hi> of this is founded, by confuting of it. It is founded upon a groſs Miſtake of God, and degrading him to the Imperfections of Man, who
+<pb n="28" facs="tcp:56331:17"/> becauſe he cannot without Trouble mind many things at once, therefor God cannot.</p>
+            <p>To us, clear teſtimony of this is given, by him that cannot err, nor deceive; and <hi>if a Sparrow fall not to the ground, without our heavenly Father,</hi> certainly ſuch grand Occurrences do not happen, without his Government.</p>
+            <p>And he that underſtands the <hi>Reaſons</hi> of his own Religion, will not need to be contended with about this matter. Religion teacheth all Men to look upon God, as the prime Origin of all Things, and <hi>Prayer</hi> and <hi>Praiſe</hi> are the two princi<g ref="char:EOLhyphen"/>pal Services of it; and we therefore pray to God for Mercies that we want, and praiſe him for thoſe we enjoy, be<g ref="char:EOLhyphen"/>cauſe we believe they iſſue from him, and are diſpoſed by him.</p>
+            <p>Theſe things are equally argumenta<g ref="char:EOLhyphen"/>tive in all Caſes; but there are ſome, that carry their own Convictions with them, had Men no great ſenſe of Religion, to induce them to a conſonant belief.</p>
+            <pb n="29" facs="tcp:56331:17"/>
+            <p>Sometimes <hi>Reſcues from Evils</hi> carry ſuch clear Signatures of <hi>Divine Efficiency</hi> upon them, that no Man can well be unobſer<g ref="char:EOLhyphen"/>vant thereof, but be ſtrongly prompted to confeſs with the Egyptian Sorcerers (in another caſe) <hi>This is indeed the Finger and Power of God.</hi>
+            </p>
+            <p>And truly I know not, why I may not entitle this ſo to him, upon theſe two accounts:</p>
+            <p n="1">I. In reſpect of the then preſent <hi>De<g ref="char:EOLhyphen"/>liverance</hi> from this Conſumption. For my part, I have often thought, I could ſee as clear <hi>Signatures</hi> of God's <hi>merciful In<g ref="char:EOLhyphen"/>terpoſition,</hi> in ſtopping the Fire, as <hi>Traces</hi> of his <hi>Anger</hi> in the progreſs of it. I know not, but the <hi>one</hi> had evil Inſtru<g ref="char:EOLhyphen"/>ments to promote it; but I am ſure, the <hi>other</hi> in ſome places had none to obſtruct it.</p>
+            <p>And as if God purpoſely intended to remark his Mercy in it, you may yet ſee, it ſtopped in places, where one would not only judge it <hi>unlikely,</hi> but next to <hi>impoſſible</hi> it ſhould do ſo; among
+<pb n="30" facs="tcp:56331:18"/> rotten, dry, weak Buildings, which ſhould rather invite a Flame, than give check to it.</p>
+            <p>But ſo <hi>Mercy</hi> recovered its Empire over <hi>Juſtice,</hi> and it pitied the Almighty to triumph in farther Executions: His Compaſſions ſaid <hi>it was enough,</hi> and fixed Bounds to the proud Flames; and ſig<g ref="char:EOLhyphen"/>nalized themſelves as much in the <hi>Reſcue,</hi> as Juſtice had before in the <hi>Execution.</hi>
+            </p>
+            <p n="2">II. In reſpect of the ſudden <hi>Recovery</hi> and <hi>Rebuilding</hi> of the City again. He that in the midſt of ſuch Deſolations and Ruins, ſhould have predicted the <hi>Reſtoration</hi> of this City, to that Glory it is now in, in <hi>ſeven years</hi> time, would hardly have eſcaped the Cenſure of a falſe Prophet, but been thought to tell things as far exceeding Belief and Hope, as <hi>Ezekiel</hi> did, when he pro<g ref="char:EOLhyphen"/>pheſied <hi>Life to dry Bones.</hi>
+            </p>
+            <p>And for this I dare appeal to the ſober ſenſe of all that hear me, among whom (I am very confident) few ever hoped to live, to ſee half of that per<g ref="char:EOLhyphen"/>fection,
+<pb n="31" facs="tcp:56331:18"/> which we now for a great while have been joyful Spectators of.</p>
+            <p>But ſo God inſpired Men with Zeal and Induſtry, and bleſſed their La<g ref="char:EOLhyphen"/>bour to almoſt incredible meaſures; and henceforth the Men of this City muſt appear Men of great Spirits, to whom nothing is impoſſible, nothing difficult, eſpecially when God ſaith <hi>Amen</hi> to their Reſolutions.</p>
+            <p>But I muſt not forget to let you know (in the midſt of theſe Bleſ<g ref="char:EOLhyphen"/>ſings) what <hi>moved</hi> God to effect them; the Text tells us clearly his <hi>Mercy,</hi> nay <hi>Mercies</hi> in the plural, nay his <hi>bowel, tender Mercies,</hi> as the Original imports.</p>
+            <p>And I would fain know, what can be ſet up in competition with it: Alaſs how <hi>vain,</hi> how <hi>groundleſs,</hi> how much their own <hi>confutation,</hi> and <hi>ſhame,</hi> are all thoſe Thoughts, that ſhall make God a Debtor to Man, and enable Man upon any Merit in him<g ref="char:EOLhyphen"/>ſelf
+<pb n="32" facs="tcp:56331:19"/> to challeng Bleſſings from him.</p>
+            <p>I have been always apt to believe, and yet am, That thoſe that ſtand upon Terms with God have leaſt reaſon to do ſo; and thoſe furtheſt from meriting any thing at his hands, that pretend a poſſibility of doing ſo. I never yet ſaw or heard any, that when it came to the Teſt, durſt ſtand to it. <hi>Tutiſſimum eſt</hi> ſaith the great Advocate for it; <hi>It is ſafeſt to renounce our own, and relie on Chriſt</hi>'s <hi>Merits.</hi> And All Men when they come to dye, do ſo too. And I think that an ill Doctrine to maintain in <hi>Life,</hi> that all Men renounce and flie from at <hi>Death.</hi>
+            </p>
+            <p>God knows, and he that beſt knows hath told us, That Man at his beſt ſtate <hi>is altogether Vanity,</hi> and at his worſt <hi>is a Lye,</hi> and much worſe. His <hi>Righteouſneſs</hi> is ſo very little, that it can claim no <hi>Bleſſing;</hi> and his <hi>Wick<g ref="char:EOLhyphen"/>edneſs</hi> ſo very great, that it deſerves nothing but <hi>Curſing.</hi> And how im<g ref="char:EOLhyphen"/>proper
+<pb n="33" facs="tcp:56331:19"/> and unbecoming it is, for ſuch a thing to ſtrut it out, and Stand upon Terms with God, judge ye.</p>
+            <p>But, my Brethren, let other Men talk at what vain Rates they will, I am ſure we have enough to reduce us to <hi>humility</hi> and <hi>ſhame;</hi> and that is, by re<g ref="char:EOLhyphen"/>flecting upon the <hi>Sins</hi> and <hi>Debaucheries</hi> of this Generation. I pointed at this before, and therefore ſhall not now cloy you with ungrateful Reputati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>I only beg as the Prophet doth, <hi>verſe</hi> 40. of this <hi>Chapter, Let us ſearch and try our ways;</hi> and if we do, we ſhall not need any other Method to preſerve us from Vanity. We ſhall ſoon find enough to <hi>humble,</hi> rather than <hi>exalt</hi> us.</p>
+            <p>The only difficulty upon this Search will be, to reſolve whether our Sins have not ſurmounted God's Mercies, and whether we have not confronted the Miracles of Divine Kindneſs, with
+<pb n="34" facs="tcp:56331:20"/> almoſt as great Miracles of our own Unworthineſs.</p>
+            <p>Do you thus requite the Lord, O fooliſh People, and unwiſe! And doſt thou, O Lord, work Deliverances for ſuch! Both theſe are equally ſtrange, equally ſurpriſing: Let the one be matter of our Humility, and the other the magnifying of thy Mercy. <hi>Not unto as O Lord, not unto us, but unto thy Name be the praiſe, for thy Truth, and for thy Mercies ſake.</hi>
+            </p>
+            <p>
+               <hi>Let the People praiſe thee, O God, Let all the People praiſe thee!</hi> O let the whole Nation <hi>extoll</hi> and <hi>magnifie</hi> thee! Let them ſay alway, <hi>Bleſſed be the Lord, who hath pleaſure in the proſperity of his Ser<g ref="char:EOLhyphen"/>vants; who hath not puniſhed us as we deſerved, but in his Judgment remembred his Mercy, and ſaved us for his Mercy and Compaſſion's ſake.</hi>
+            </p>
+            <p>But I have one thing more yet, for which to entitle God and his Mercy to our preſervation, and that is, the implacable Rage and Malice of
+<pb n="35" facs="tcp:56331:20"/> our Enemies againſt us. Of this we have freſh and daily Evidences<g ref="char:punc">▪</g> and (by the way) I do not know, but we may be obliged to them for it. They pull of their Vizard, and by this tell us what they are, and what we are to expect, and to whom alſo to fly for protection from them.</p>
+            <p>When Diſappointments do but the more inrage them; when to be de<g ref="char:EOLhyphen"/>feated in one <hi>helliſh Project,</hi> makes them more earneſt in <hi>another;</hi> when nothing will reconcile them, nothing diſcou<g ref="char:EOLhyphen"/>rage them; we have juſt cauſe to ſay, <hi>It is of God that we are not conſumed;</hi> to report in earneſt that of the <hi>Pſalmiſt, Unleſs God keep the City, the Watchman wa<g ref="char:EOLhyphen"/>keth but in vain:</hi> And but that he hath done the firſt, all care of the other had been to no purpoſe.</p>
+            <p n="3">III. And now I have but one thing more to enquire about, but it is a very material and important one, <hi>i. e.</hi> How theſe Mercies may be <hi>ſecured to us?</hi> And how theſe Compaſſions, that
+<pb n="36" facs="tcp:56331:21"/> have been hitherto extended to us, <hi>may not fail?</hi>
+            </p>
+            <p>An Enquiry, which it is ſo much the more needful to have Reſolution in, by how much we are ſubject to the ſame <hi>Conſumptions</hi> ſtill, and have the ſame <hi>wicked Men</hi> as induſtrious to bring them upon us as ever, and muſt be preſer<g ref="char:EOLhyphen"/>ved by the ſame <hi>Compaſſions</hi> and <hi>Mercies,</hi> if we be preſerved.</p>
+            <p>The Deſigns of <hi>Sixty Six</hi> are yet pur<g ref="char:EOLhyphen"/>ſued, and its <hi>barbarous Intendments</hi> proſe<g ref="char:EOLhyphen"/>cuted as eagerly as ever: The ſame Rea<g ref="char:EOLhyphen"/>ſon which incited the Cruelty then, con<g ref="char:EOLhyphen"/>tinues viſible ſtill.</p>
+            <p>It is this CITY, next to God, and his Vicegerents Safety and Care, that ſupports the Intereſt of this <hi>Kingdom</hi> and <hi>Church.</hi> While <hi>this</hi> is ſafe and flouriſh<g ref="char:EOLhyphen"/>ing in conjunction with its KING, all the Attempts of Darkneſs (ſuppoſing God's <hi>common Providence</hi>) will be their own Confuſions.</p>
+            <p>This our Enemies ſeem to ſee clearly, and you may perceive their Deſigns
+<pb n="37" facs="tcp:56331:21"/> have been accordingly. Either to <hi>deſtroy the</hi> CITY, or to <hi>take away the Life of the</hi> KING, would put their hopes into fair poſſibilities; but to do both, would certainly aſſure them: And therefore each have been ſingly, and both in conjunction, in <hi>aim</hi> and <hi>project.</hi>
+            </p>
+            <p>
+               <hi>Delenda eſt Carthago,</hi> was <hi>Romes</hi> great Maxim of Policy of old, and it is the ſame ſtill, only changing the Scene. So that we as much need the ſame Com<g ref="char:EOLhyphen"/>paſſions and Mercies to protect us now as ever; and therefore no Enquiry can be more really concerning, than how <hi>theſe</hi> may be <hi>aſſured</hi> to us ſtill.</p>
+            <p>Which Enquiry I do not know how more ſafely and effectually to reſolve, than in theſe Two Directions:</p>
+            <p n="1">1. Be we ſure to be duly thankful for the Mercies that we have already re<g ref="char:EOLhyphen"/>ceived. The Perſons or People that are ſo, almoſt lay an obligation upon God to confer more.</p>
+            <p>Conſult your own Breaſts, you will find your Charity ſtill moves by this
+<pb n="38" facs="tcp:56331:22"/> Rule; and conſult the Holy Scriptures, and you ſhall find that God's moves alſo by the ſame.</p>
+            <p n="2">2. But above all things be we ſure to add <hi>holineſs</hi> to our <hi>praiſes,</hi> to live <hi>holy</hi> and <hi>chriſtian</hi> Lives, to avoid thoſe <hi>Sins,</hi> that provoke God's Indignation and Wrath againſt a People, and to practice thoſe <hi>Graces,</hi> which entitle them to Divine Protection and Favour.</p>
+            <p>To come out of the Fire refined from our former Sins, and to permit our Flames to conſume our Droſs. By this we ſhall comply with God's great De<g ref="char:EOLhyphen"/>ſign in them, and prevent all need of a further refining. If by this, the <hi>Iniquity of Jacob be purged,</hi> the <hi>Fire ſhall be kindled againſt it no more.</hi>
+            </p>
+            <p>Let the <hi>living</hi> Temples exceed the former in purity, as much as the <hi>material</hi> ones ſurpaſs them in beauty; the <hi>In<g ref="char:EOLhyphen"/>habitants</hi> be as much better, as their <hi>Habitations</hi> are more glorious; and their Zeal for God, Care of his Religion, Concern for his Honour, Obedience
+<pb n="39" facs="tcp:56331:22"/> to his Commands, be intended and heightned by theſe great Obligations.</p>
+            <p>This would render us dear, and belo<g ref="char:EOLhyphen"/>ved of God: This would cauſe <hi>his Angels to encamp about us,</hi> and the <hi>Divine Preſence to dwell among us:</hi> This would make God our <hi>Sun</hi> and our <hi>Shield;</hi> and entitle us to his <hi>bleſſing,</hi> and <hi>protection</hi> too.</p>
+            <p>For Holineſs is God's own Nature and Being, and can no more be ſeparated from his regards and Care, than a Sun<g ref="char:EOLhyphen"/>beam can be cut off from its Original, and caſt into Hell.</p>
+            <p>Upon theſe terms, we may commit our ſelves and our ſafetie unto God, and need not doubt the ſucceſs. We may aſſure our ſelves, that as his <hi>Mercies</hi> have been manifeſted to us, ſo they will; and that as his <hi>Compaſſions</hi> hitherto have not, ſo for the future <hi>they never will fail.</hi> Which God of his infinite Mercy grant, for his Son <hi>Jeſus Chriſt's</hi> ſake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
